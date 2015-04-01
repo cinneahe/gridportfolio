@@ -1,7 +1,6 @@
-*{
+
   /* this will put a border around every element. It will be ugly, but useful to see how the framework is working */
-  border: 1px solid orange !important;
-}
+  /*border: 1px solid orange !important;*/
 *{
   /** this code tells the browser to include the border in calculating an element's height and width. webkit, moz, and ms are specifications for chrome, mozilla firefox, and internet explore **/
   -webkit-box-sizing: border-box;
