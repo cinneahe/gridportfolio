@@ -9,6 +9,10 @@
   -ms-box-sizing: border-box;
   box-sizing: border-box;
 }
+body{
+  font-family: 'Quicksand', sans-serif;
+
+}
 .row{
   width: 100%;
   display: flex;
@@ -54,4 +58,28 @@
   width: 900px;
   height: 300px;
   background-color: red;
+}
+.featured{
+  text-align: center;
+}
+.jane-doette{
+  text-align: right;
+  font-size: 150%;
+  text-transform: uppercase;
+  font-weight: 300px; 
+}
+.ninja{
+  text-align: right;
+  text-transform: uppercase;
+}
+.upper-title{
+  text-transform: uppercase;
+  font-size: 200%;
+}
+.featured-text{
+  font-size: 200%; 
+  color: silver;
+}
+.link-style{
+  font-size: 100%;
 }
